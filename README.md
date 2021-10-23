@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on Open source Projects
 - 📫 How to reach me 
 - Linkedin-https://www.linkedin.com/in/saksham-gupta-00a98221a/
-- Twitter-@AnternorG
+- Twitter-@Anternor01
+- Instagram-@anternor01
+
 
 <!---
 Anternor/Anternor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
